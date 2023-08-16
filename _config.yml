@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "https://drive.google.com/file/d/1OBcHuwU1RrUJ-noM1Ir7VjzhyE-h6owl/view?usp=drive_link", title: "CV"}
-  - {title: "CV", url: "https://drive.google.com/file/d/1OBcHuwU1RrUJ-noM1Ir7VjzhyE-h6owl/view?usp=drive_link"}
+  - {title: "CV", url: "https://elatril.com.mx/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:raulcastellanos@uchicago.edu"}
