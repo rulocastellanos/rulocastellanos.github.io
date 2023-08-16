@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "https://drive.google.com/drive/folders/1SA_ABduop6ncBVa4lWfinsxiABzfXF1_", title: "CV"}
+  - {file: "https://drive.google.com/file/d/1OBcHuwU1RrUJ-noM1Ir7VjzhyE-h6owl/view?usp=drive_link", title: "CV"}
   - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
