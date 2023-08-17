@@ -1,5 +1,5 @@
 ---
-title:  "Maps of Mexico Rivers"
+title:  "Maps of Mexican Rivers"
 mathjax: true 
 layout: post
 categories: 
