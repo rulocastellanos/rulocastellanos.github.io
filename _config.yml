@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "CV_RaulCastellanos_2023.pdf"}
+  - {title: "CV", file: "Curriculum Raul Castellanos 2023 Mansueto.pdf"}
   - {title: "Blog externo", url: "https://elatril.com.mx/category/latitudes-y-longitudes/"}
   - {title: "Blog datos", file: "blog.md" }
 
