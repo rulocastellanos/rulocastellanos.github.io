@@ -1,5 +1,5 @@
 ---
-title:  "Our new post"
+title:  "Maps of Mexico Rivers"
 mathjax: true 
 layout: post
 categories: 
