@@ -13,7 +13,7 @@ Most of the teacahers in Mexico City are female.
 
 ## Code to do this graph 
 
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
+Here I include the most important steps to obtain the graph. 
 
 {% highlight c %}
 
