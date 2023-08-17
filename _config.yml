@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "/CV.pdf", icon: home}
+  - {title: "CV", file: "/CV.pdf"}
   - {title: "Blog externo", url: "https://elatril.com.mx/category/latitudes-y-longitudes/"}
   - {title: "Blog datos", file: "/blog.md" }
 
