@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "CV_Raul_Castellanos_2023.pdf", icon: home}
+  - {title: "CV_1", file: "CV_Raul_Castellanos_2023.pdf", icon: home}
   - {title: "CV", url: "https://drive.google.com/file/d/1OBcHuwU1RrUJ-noM1Ir7VjzhyE-h6owl/view?usp=drive_link"}
   - {title: "Blog", url: "https://elatril.com.mx/category/latitudes-y-longitudes/"}
   - {title: "100 data days", file: "blog.md" }
