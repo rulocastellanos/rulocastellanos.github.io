@@ -7,9 +7,9 @@ categories: media
 
 ![teachers_graph](https://github.com/rulocastellanos/rulocastellanos.github.io/assets/42686140/e52b6faf-8606-487b-bae7-8a9a016e5b36)
 
-## Teachers 
+## Teachers related to early childhood education 
 
-Most of the teacahers in Mexico City are female.
+Most of the teacahers in Mexico City are female. Here I show teachers with positions related to early childhood education (43 days to 2 years) and preschool (3 to 5 years) grouped by gender.
 
 ## Code to do this graph 
 
@@ -35,3 +35,8 @@ graph <- ggplot(data, aes(x = reorder(municipio, count), y = count, fill = sexo)
                             
 
 {% endhighlight %}
+
+
+## Source 
+
+[Ministry of Education of Mexico](https://www.planeacion.sep.gob.mx/principalescifras/) 
