@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: media
 ---
-
 ![asilos_map](https://github.com/rulocastellanos/rulocastellanos.github.io/assets/42686140/e2147839-b279-4a57-a5fe-e116f10a934f)
 
 ## Elderly Care Homes
